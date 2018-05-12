@@ -1,0 +1,28 @@
+_repo: '---_25195'
+_version: 0.1.0
+alternative_title:
+- Feng Yue Jian
+- 風月鑑
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wu, Yitang, active 19 century
+    alias: 吳貽棠
+    gutenberg_agent_id: '31134'
+    url: http://www.gutenberg.org/2009/agents/31134
+description: ''
+gutenberg_issued: '2008-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25195'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 風月鑒
+url: http://www.gutenberg.org/ebooks/25195
